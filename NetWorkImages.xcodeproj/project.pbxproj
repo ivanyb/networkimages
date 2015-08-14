@@ -19,6 +19,7 @@
 		AF9BBDF71B7AF3F400D4A547 /* AppInfos.m in Sources */ = {isa = PBXBuildFile; fileRef = AF9BBDF61B7AF3F400D4A547 /* AppInfos.m */; };
 		AFD12B1E1B7CA59400670D0F /* NSString+Dir.m in Sources */ = {isa = PBXBuildFile; fileRef = AFD12B1D1B7CA59400670D0F /* NSString+Dir.m */; };
 		AFD12B211B7CADF700670D0F /* downLoadImageOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = AFD12B201B7CADF700670D0F /* downLoadImageOperation.m */; };
+		AFF1F52B1B7DA0F200EF931D /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF1F52A1B7DA0F200EF931D /* test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		AFD12B1D1B7CA59400670D0F /* NSString+Dir.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Dir.m"; sourceTree = "<group>"; };
 		AFD12B1F1B7CADF700670D0F /* downLoadImageOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = downLoadImageOperation.h; sourceTree = "<group>"; };
 		AFD12B201B7CADF700670D0F /* downLoadImageOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = downLoadImageOperation.m; sourceTree = "<group>"; };
+		AFF1F5291B7DA0F200EF931D /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		AFF1F52A1B7DA0F200EF931D /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +111,8 @@
 				AFD12B1D1B7CA59400670D0F /* NSString+Dir.m */,
 				AFD12B1F1B7CADF700670D0F /* downLoadImageOperation.h */,
 				AFD12B201B7CADF700670D0F /* downLoadImageOperation.m */,
+				AFF1F5291B7DA0F200EF931D /* test.h */,
+				AFF1F52A1B7DA0F200EF931D /* test.m */,
 			);
 			path = NetWorkImages;
 			sourceTree = "<group>";
@@ -242,6 +247,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AFF1F52B1B7DA0F200EF931D /* test.m in Sources */,
 				AF9BBDD01B7AF0D200D4A547 /* ViewController.m in Sources */,
 				AF9BBDF71B7AF3F400D4A547 /* AppInfos.m in Sources */,
 				AFD12B1E1B7CA59400670D0F /* NSString+Dir.m in Sources */,
