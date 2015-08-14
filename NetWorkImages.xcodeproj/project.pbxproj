@@ -19,7 +19,6 @@
 		AF9BBDF71B7AF3F400D4A547 /* AppInfos.m in Sources */ = {isa = PBXBuildFile; fileRef = AF9BBDF61B7AF3F400D4A547 /* AppInfos.m */; };
 		AFD12B1E1B7CA59400670D0F /* NSString+Dir.m in Sources */ = {isa = PBXBuildFile; fileRef = AFD12B1D1B7CA59400670D0F /* NSString+Dir.m */; };
 		AFD12B211B7CADF700670D0F /* downLoadImageOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = AFD12B201B7CADF700670D0F /* downLoadImageOperation.m */; };
-		AFF1F5281B7D9E7C00EF931D /* ttt.m in Sources */ = {isa = PBXBuildFile; fileRef = AFF1F5271B7D9E7C00EF931D /* ttt.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,8 +53,6 @@
 		AFD12B1D1B7CA59400670D0F /* NSString+Dir.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Dir.m"; sourceTree = "<group>"; };
 		AFD12B1F1B7CADF700670D0F /* downLoadImageOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = downLoadImageOperation.h; sourceTree = "<group>"; };
 		AFD12B201B7CADF700670D0F /* downLoadImageOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = downLoadImageOperation.m; sourceTree = "<group>"; };
-		AFF1F5261B7D9E7C00EF931D /* ttt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ttt.h; sourceTree = "<group>"; };
-		AFF1F5271B7D9E7C00EF931D /* ttt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ttt.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,8 +108,6 @@
 				AFD12B1D1B7CA59400670D0F /* NSString+Dir.m */,
 				AFD12B1F1B7CADF700670D0F /* downLoadImageOperation.h */,
 				AFD12B201B7CADF700670D0F /* downLoadImageOperation.m */,
-				AFF1F5261B7D9E7C00EF931D /* ttt.h */,
-				AFF1F5271B7D9E7C00EF931D /* ttt.m */,
 			);
 			path = NetWorkImages;
 			sourceTree = "<group>";
@@ -252,7 +247,6 @@
 				AFD12B1E1B7CA59400670D0F /* NSString+Dir.m in Sources */,
 				AF9BBDCD1B7AF0D200D4A547 /* AppDelegate.m in Sources */,
 				AF9BBDCA1B7AF0D200D4A547 /* main.m in Sources */,
-				AFF1F5281B7D9E7C00EF931D /* ttt.m in Sources */,
 				AFD12B211B7CADF700670D0F /* downLoadImageOperation.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
